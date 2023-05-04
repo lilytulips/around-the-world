@@ -1,12 +1,21 @@
 # around-the-world
 This repository is created to submit my solution for the challenge by **_Jazari Robot_**. This challenge is made to test my skills if they fit the position of **_Junior Programmer_**. With that, I am **Aisyah Raihana**, an applicant for the position of Junior Programmer, submit my code for the challenge here.
 
-This project is supposed to run locally since it is not being deployed to any hosting. I run this project using XAMPP, so here is full instructions on how to access this project and run it locally in your localhost. 
 
-This project should display a _table of countries_ with its _common name, region, flag_ and _capital_ that are listed in public data from https://restcountries.com/. The list is paginated in which you could choose to display how much entries per page. You could also search for a specific country in the search bar provided at the top of the table.
+This project should display a _table of countries_ with its _common name, region, flag_ and _capital_ that are listed in public data from https://restcountries.com/. The list is paginated in which you could choose to display how much entries per page. You could also search for a specific country in the search bar provided at the top of the table. 
 
+According to the challenge given, here is the list of features successfully built.
 
+	> Fetching data
+	> Table
+	> Sorting
+	> Images/HTML
+	> Filtering
+	> String highliting
+	
+As for _row selection_ and _storage mechanisms_, I figured these two are linked to one another; I had tried to code and execute, it did display the checkboxes for Favorite column and I could select to any of them, however, it disrupted the other output. Hence, I attached the code exclusively from the `index.php` file. Please find process.php to review the code.
 
+*This project is supposed to run **locally** since it is not being deployed to any hosting. I run this project using XAMPP, so here is full instructions on how to access this project and run it locally in your localhost. 
 
 **INSTRUCTIONS**
 
