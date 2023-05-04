@@ -11,6 +11,11 @@ header {
 	padding: 50px 50px 0 50px;
 	background: linear-gradient(0deg, rgba(119, 113, 117, 0.3), rgba(158, 148, 154, 0.3)), url('map.jpg');
 }
+footer {
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin: 20px;
+}
 h1 {
 	margin: 0;
 }
