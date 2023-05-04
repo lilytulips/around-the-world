@@ -53,4 +53,5 @@ That's it! You should now be able to run the project locally using XAMPP.
 If there is any problem or error encountered during the setup or when the project is running, feel free to reach me at raihanaisyah11@gmail.com or +6011-11106044, I would be happy to assist.
 
 Thank you and hope to hear from you soon!
--**Aisyah Raihana**
+
+— **Aisyah Raihana**
