@@ -12,8 +12,12 @@ According to the challenge given, here is the list of features successfully buil
 	> Images/HTML
 	> Filtering
 	> String highliting
-	
+
+So, if there's any of the above features does not function like it supposed to be, please let me know.
+
 As for _row selection_ and _storage mechanisms_, I figured these two are linked to one another; I had tried to code and execute, it did display the checkboxes for Favorite column and I could select to any of them, however, it disrupted the other output. Hence, I attached the code exclusively from the `index.php` file. Please find process.php to review the code.
+
+Also, the list of countries may need an action from you to select the number of entries, to actually display the list according to the desired amount. You may also need to refresh the page if there's no changes or it appears "No data availabe in table" as it needs time to connect with the public data from https://restcountries.com.
 
 *This project is supposed to run **locally** since it is not being deployed to any hosting. I run this project using XAMPP, so here is full instructions on how to access this project and run it locally in your localhost. 
 
@@ -47,3 +51,6 @@ Usually after STEP 3, at STEP 4 onwards, we created and established connection w
 That's it! You should now be able to run the project locally using XAMPP.
 
 If there is any problem or error encountered during the setup or when the project is running, feel free to reach me at raihanaisyah11@gmail.com or +6011-11106044, I would be happy to assist.
+
+Thank you and hope to hear from you soon!
+-**Aisyah Raihana**
