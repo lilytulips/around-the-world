@@ -144,3 +144,4 @@
 </script>
 </body>
 </html>
+<footer>Built by <b>Aisyah Raihana 2023</b> for <b>Jazari Robot</b></footer>
