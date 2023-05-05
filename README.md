@@ -15,7 +15,7 @@ According to the challenge given, here is the list of features successfully buil
 
 So, if there's any of the above features does not function like it supposed to be, please let me know.
 
-As for _row selection_ and _storage mechanisms_, I figured these two are linked to one another; I had tried to code and execute, it did display the checkboxes for Favorite column and I could select to any of them, however, it disrupted the other output. Hence, I attached the code exclusively from the `index.php` file. Please find process.php to review the code.
+As for _row selection_ and _storage mechanisms_, I figured these two are linked to one another; I had tried to code and execute, it did display the checkboxes for Favorite column and I could select to any of them, however, it disrupted the other output. Hence, I attached the code exclusively from the `index.php` file. Please find `process.php` to review the code.
 
 Also, the list of countries may need an action from you to select the number of entries, to actually display the list according to the desired amount. You may also need to refresh the page if there's no changes or it appears "No data availabe in table" as it needs time to connect with the public data from https://restcountries.com.
 
