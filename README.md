@@ -46,7 +46,7 @@ The instructions have provided alternatives for different type of operating syst
 4.	**STEP 4:** _Start XAMPP_ — Start the XAMPP control panel and start the Apache and MySQL services.
 5.	**STEP 5:** _Run the project_ — Open your web browser and go to `http://localhost/countries` to run the project. 
 
-Usually after STEP 3, at STEP 4 onwards, we created and established connection with a database at phpMyAdmin, however, since the data used in this project is public data from https://restcountries.com.
+Usually after STEP 3, at STEP 4 onwards, we created and established connection with a database at phpMyAdmin, however, since the data used in this project is public data from https://restcountries.com, these steps are not necessary.
 
 That's it! You should now be able to run the project locally using XAMPP.
 
