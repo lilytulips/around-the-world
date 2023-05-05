@@ -42,7 +42,7 @@ The instructions have provided alternatives for different type of operating syst
 
 	i.	If you **cloned** it, the folder is typically located in the `C:\xampp` directory on Windows and `/Applications/XAMPP/htdocs` directory on Mac.
 
-	ii.	If you **downloaded** it, find the folder in your `Download`. Once you have downloaded the ZIP archive, extract its contents to the `htdocs` folder of XAMPP. This folder is typically located in the` C:\xampp` directory on Windows.
+	ii.	If you **downloaded** it, find the folder in your `Download`. Once you have downloaded the ZIP archive, extract its contents to the `htdocs` folder of XAMPP. This folder is typically located in the `C:\xampp` directory on Windows.
 4.	**STEP 4:** _Start XAMPP_ — Start the XAMPP control panel and start the Apache and MySQL services.
 5.	**STEP 5:** _Run the project_ — Open your web browser and go to `http://localhost/countries` to run the project. 
 
